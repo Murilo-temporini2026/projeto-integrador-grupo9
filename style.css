@@ -198,8 +198,6 @@ hr {
 .carrossel-images img {
   min-width: 100%;
   width: 100%;
-  flex-shrink: 0;
-  object-fit: cover; 
 }
 
 @keyframes slide {
